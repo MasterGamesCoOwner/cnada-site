@@ -1,0 +1,31 @@
+h1{
+color: blue;
+
+
+}
+
+
+ul {
+
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+    width: 50%;
+    margin: auto;
+
+}
+
+ul li {
+
+    border: 3px outset;
+    display: inline-block;
+
+}
+
+body.gallerypage{
+    background-image: url(https://a.cdn-hotels.com/gdcs/production159/d204/01ae3fa0-c55c-11e8-9739-0242ac110006.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 25%;
+}
