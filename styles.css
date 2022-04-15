@@ -29,3 +29,25 @@ body.gallerypage{
     background-size: cover;
     background-position: 100% 25%;
 }
+
+img{
+    border-style: double;
+    min-height: 4in;
+    min-width: 4in;
+    max-width: 4in;
+    max-height: 4in;
+    border-width: 0.3in;
+
+}
+
+p{
+    text-align: center;
+    border-style: dotted;
+    background-color: crimson;
+    border-color: crimson;
+
+}
+
+h1{
+    text-align: center;
+}
